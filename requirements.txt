@@ -63,7 +63,7 @@ pycosat==0.6.3
 pycrypto==2.6.1
 pyfsmlib==1.0
 pyglet==1.2.4
-Pygments==2.1.2
+Pygments==2.7.4
 pyhwp==0.1b9
 pyobjc-core==2.5.1
 pyobjc-framework-Accounts==2.5.1
