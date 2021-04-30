@@ -110,7 +110,7 @@ recurly==2.8.1
 requests==2.18.4
 requests-toolbelt==0.8.0
 retrying==1.3.3
-rsa==3.4.2
+rsa==4.7
 ruamel.ordereddict==0.4.13
 ruamel.yaml==0.15.67
 s3transfer==0.1.13
