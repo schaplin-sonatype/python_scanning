@@ -57,7 +57,7 @@ pipenv==2018.7.1
 pkginfo==1.4.1
 py2app==0.7.3
 pyaml==17.12.1
-pyanyapi==0.6.0
+pyanyapi==0.6.1
 pyasn1==0.4.2
 pycosat==0.6.3
 pycrypto==2.6.1
