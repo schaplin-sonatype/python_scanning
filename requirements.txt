@@ -115,7 +115,7 @@ ruamel.ordereddict==0.4.13
 ruamel.yaml==0.15.67
 s3transfer==0.1.13
 safety-db==2017.4.19
-salt==2016.11.1
+salt==3003.3
 scif==0.0.53
 scipy==0.13.0b1
 selenium==3.14.0
